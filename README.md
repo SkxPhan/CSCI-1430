@@ -1,8 +1,8 @@
 # CSCI-1430: Computer Vision and Deep Learning Exercises
-This repository contains a collection of practical exercises from the CSCI-1430: Computer Vision and Deep Learning course at Brown University. These exercises explore both foundational and advanced topics in computer vision, including image processing, feature extraction, camera geometry, and deep learning using convolutional neural networks (CNNs).
+This repository contains a collection of practical exercises from the [CSCI-1430](https://browncsci1430.github.io/): Computer Vision course at Brown University. These exercises explore both foundational and advanced topics in computer vision, including including fundamentals of image formation, camera imaging geometry, feature detection and matching, stereo, motion estimation and tracking, image classification, scene understanding, and deep learning with neural networks (CNN).
 
 ## Overview
-CSCI-1430 offers an in-depth introduction to the field of computer vision and deep learning. The course begins with essential image processing techniques and progresses to modern deep learning approaches like CNNs. This repository provides hands-on coding exercises designed to reinforce concepts covered in lectures and readings.
+CSCI-1430 offers an in-depth introduction to the field of computer vision and deep learning. The course begins with essential image processing techniques and progresses to modern deep learning approaches like CNNs. This repository provides hands-on coding exercises designed to reinforce concepts covered in lectures and readings. Throughout the exercises, we developed basic methods for applications that include finding known models in images, depth recovery from stereo, camera calibration, image stabilization, automated alignment, tracking, boundary detection, and recognition.
 
 ## Exercises
 1. Image Filtering: Explore fundamental image processing by applying filters such as Gaussian blur, Sobel edge detection, and Laplacian operators.
